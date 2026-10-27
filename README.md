@@ -1,85 +1,29 @@
-# Hi 👋, I'm Gowtham
+<!-- 3D Wave Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=220&section=header&text=Hi%20%F0%9F%91%8B,%20I'm%20Gowtham&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Researcher%20%7C%20Network%20Security%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%" alt="Header" />
+</p>
 
-### Cybersecurity Enthusiast | SOC Analyst Aspirant | CSE Student | Full-Stack Developer
-
-Passionate about building secure systems, detecting cyber threats, and developing innovative software solutions.
+<!-- Animated Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Building+Secure+Systems+%26+AI-Driven+IDS;Detecting+Anomalies+in+Network+Traffic;Full-Stack+Developer+%26+Security+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Computer Science and Engineering Student at SRM Institute of Science and Technology (SRMIST)
-
-🔐 Passionate about Cybersecurity, Network Security, Threat Detection, and Security Operations Centers (SOC)
-
-🌱 Currently Learning
-- Penetration Testing
-- Threat Hunting
-- Incident Response
-- Malware Analysis
-- SIEM Technologies
-- Cloud Security
-
-💡 Interested In
-- Ethical Hacking
-- Security Automation
-- Intrusion Detection Systems
-- Full-Stack Development
-- AI-Powered Security Solutions
-
----
-
-## 🛠️ Technical Skills
-
-### Cybersecurity
-Kali Linux • Wireshark • Nmap • Burp Suite • Snort • Zeek
-
-### Programming
-Python • Java • JavaScript • SQL • C
-
-### Web Development
-HTML • CSS • Node.js • Express.js • EJS
-
-### Database
-MySQL
-
-### Tools
-Git • GitHub • Linux • VS Code
-
----
-
-## 🔥 Featured Projects
-
-### 🛡️ AI-Powered IDS + SOC Platform
-Real-time intrusion detection, threat monitoring, alert management, and security dashboard.
-
-### 🌐 Network Intrusion Detection System
-Packet inspection, suspicious traffic detection, and network attack identification.
-
-### 🚨 DDoS Attack Detection System
-Traffic analysis system for detecting abnormal network behavior and DDoS attacks.
-
-### 🔍 CyberWatch Security Monitoring System
-Threat tracking, log monitoring, and security event analysis.
-
-### 🛣️ Road Damage Detection & Reporting System
-AI-powered road damage detection with reporting and location tracking.
-
-### 🚗 Rental Management System
-Full-stack bike and car rental platform with booking and management features.
-
----
-
-## 🎯 Career Objective
-
-Aspiring Cyber Security Analyst seeking opportunities in SOC operations, threat detection, network security, and security automation.
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/gowthammm
-- Email: gowtham05775@gmail.com
-- GitHub: https://github.com/cybergow
-
-⭐ Security is not a product, but a process. ⭐
+```yaml
+name: Gowtham V
+education: B.Tech CSE (Cybersecurity) @ SRM Institute of Science and Technology (SRMIST)
+focus_areas:
+  - Network Security & Packet Inspection
+  - AI-Powered Intrusion Detection Systems (IDS)
+  - Dynamic Malware Analysis & Threat Hunting
+  - Full-Stack Web Architecture
+current_exploration:
+  - Ensemble ML & Graph Neural Networks for Threat Detection
+  - Security Automation & Real-Time Telemetry Visualization
+  - Cloud Security & Incident Response
+philosophy: "Security is not a product, but a continuous process."
